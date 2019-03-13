@@ -32,6 +32,9 @@ public class ParcialPeaje {
         camion2.add(camionEje);
         
         System.out.println(automovil.toString());
+        System.out.println(moto.toString());
+        System.out.println(camion.toString());
+        System.out.println(camion2.toString());
        
     }       
     
