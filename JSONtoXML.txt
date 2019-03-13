@@ -1,0 +1,7 @@
+<Vehiculo>
+	<Automovil>
+		<placa>JCQ082</placa>
+		<marca>Nissan</marca>
+		<valorPeaje>10000</valorPeaje>
+	</Automovil>
+</Vehiculo>
